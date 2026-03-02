@@ -68,7 +68,7 @@ The agent backend:
 From the project root:
 
 ```bash
-cd ai-weather-agent
+cd agentic-developer-project
 
 # Create venv (using Python 3.11)
 python -m venv .venv
