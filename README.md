@@ -1,8 +1,5 @@
 ## AI Weather Assistant
 
-### Video Walkthrough
-***ADD RECORDING HERE***
-
 ### Project Overview
 
 **AI Weather Assistant** is a small full‑stack demo that lets users ask natural‑language questions about current weather conditions.  
